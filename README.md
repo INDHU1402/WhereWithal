@@ -1,5 +1,5 @@
 ## Title
-WhereWithal
+WhereWithal - Personal Finance Tracker
 ## Objective
 To build a hassle-free personal finance app for tracking daily life finances and corresponding metrics.<br>
 #### Existing Methods and their drawbacks:
